@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLE Sensirion</string>
+    <string name="bl_not_supported">Bluetooth is not supported!</string>
+    <string name="ble_not_supported">Bluetooth Low Energy is not supported!</string>
+    <string name="unknown_device">Unknown Device</string>
+    <string name="button_refresh">Refresh</string>
+</resources>
